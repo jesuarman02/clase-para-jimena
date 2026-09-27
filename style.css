@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(253, 185, 185);
+    
+}
+h1{
+    color: cyan;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+p{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: xx-large;
+}
